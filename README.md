@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `<Alyssa>`
-- **CCID:** `<Menezes>`
+- **CCID:** `<menezes1>`
 
 ## References and Resources
 N/A
